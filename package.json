@@ -1,0 +1,12 @@
+{
+  "name": "orthokb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DanielHammerin/orthokb.git",
+  "author": "Daniel Hammerin <danne155@hotmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-json-modules index.js"
+  }
+}
